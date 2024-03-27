@@ -26,6 +26,14 @@ The user can only see his/her notes
     Users can edit, delete or view the notes
 </p>
 
+<p align="center">
+    <img src="https://i.postimg.cc/R0Lgqgp7/Screenshot-from-2024-03-27-14-33-26.png" alt="NotNote-create-note" border="0">
+</p>
+
+<p align="center">
+The user cannot see the notes of another person
+</p>
+
 </br></br></br></br>
 
 <p align="center">
